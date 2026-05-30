@@ -1,6 +1,6 @@
-Segment,Monetary,Frequency,Recency,return_rate,avg_discount
-At Risk Customers,1823.02,2.63,152.8,0.08,0.28
-Best Customers,6618.74,8.65,11.26,0.07,0.27
-Big Spenders,5454.06,4.77,151.25,0.06,0.23
-Loyal Customers,5850.4,7.75,87.8,0.07,0.28
-Recent Customers,2737.84,3.85,11.71,0.06,0.27
+Segment,Monetary,Frequency,Recency,return_rate,avg_discount,avg_rating,avg_delivery_days
+At Risk Customers,1823.02,2.63,152.8,0.08,0.28,3.89,4.45
+Champions,6618.74,8.65,11.26,0.07,0.27,3.9,4.53
+High Value Customers,5454.06,4.77,151.25,0.06,0.23,3.87,4.55
+Loyal Customers,5850.4,7.75,87.8,0.07,0.28,3.85,4.48
+New Customers,2737.84,3.85,11.71,0.06,0.27,3.92,4.4
