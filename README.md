@@ -38,3 +38,32 @@ This project performs RFM (Recency, Frequency, Monetary) analysis to segment cus
 - NumPy
 - Matplotlib
 - Jupyter Notebook
+
+## Project Structure
+
+```text
+d2c-rfm-segmentation/
+│
+├── data/
+│   ├── churn_labels.csv
+│   ├── customers.csv
+│   ├── DATA_DICTIONARY.md
+│   ├── intervention_history.csv
+│   ├── orders.csv
+│   ├── rfm_modeling_snapshot.csv
+│   ├── STUDENT_FACING_PROBLEM_STATEMENT.md
+│   ├── support_tickets.csv
+│   └── web_events_snapshot.csv
+│
+├── notebooks/
+│   └── rfm_segmentation.ipynb
+│
+├── outputs/
+│   ├── segment_summary.csv
+│   └── segments.csv
+│
+├── manual_review_cases.md
+├── retention_strategy.md
+├── README.md
+└── requirements.txt
+```
