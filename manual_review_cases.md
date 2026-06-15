@@ -1,5 +1,8 @@
 # Manual Review Cases
 
+### Name :- Divyanshi Rawat 
+### Student_ID :- iitp_aiml_2506097
+
 ## Customer 1: CUST02038
 Segment: At Risk Customers
 

@@ -2,6 +2,9 @@
 
 ## Part 2: RFM Segmentation & Retention Strategy
 
+### Name :- Divyanshi Rawat
+### Student_ID :- iitp_aiml_2506097
+
 ### Project Objective
 This project performs RFM (Recency, Frequency, Monetary) analysis to segment customers and generate retention strategies for a D2C business.
 
